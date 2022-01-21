@@ -1,0 +1,103 @@
+PROFESSIONAL HISTORY
+* Research Associate at the Georgia Institute of Technology
+* Graduate Research Analyst at the Georgia Institute of Technology
+* Client Service Administrator, Database Administrator at JOYN Advisors
+* Private Econometrics Tutor, promoted by the University of Georgia Dpt. of Economics
+
+RESEARCH ACTIVITIES
+Publications & Posters
+* Radiologist Practice Seperation: Recent Trends and Characteristics
+* Provider Characteristics of Stroke Thrombectomy Services for Medicare Beneficiaries
+* A Light Econometric Inquiry: Does Income Disparity Foster Economic Growth?
+Conferences Attended
+* 6th Annual Health Services Research Day, Emory University School of Medicine, Atlanta, GA (May 15th, 2019)
+* International Health Economics Association (iHEA) Congress, Basel, Switzerland (Jul. 13th-17th, 2019)
+* Health Systems: The Next Generation, Georgia Institute of Technology, Atlanta, GA (Nov. 12, 2019)
+
+COURSEWORK & CERTIFICATES
+Python
+* Udemy: Python for Absolute Beginners
+* Codecademy: Webscraping with Beautiful Soup
+* Codecademy: Clean Data with Python
+* Codecademy: Statistics with Numpy
+* Codecademy: Statistics with Python
+* Codecademy: Data Analysis with Pandas
+SAS
+* SAS: SAS Programming 1: Essentials
+SQL
+* Codecademy: Learn SQL
+* Codecademy: Transform Tables with SQL
+* Codecademy: Intermediate SQL for Marketers and Product Managers
+Machine Learning
+* Codecademy: Basics of Machine Learning
+Natural Language Processing
+Economics
+* GT: ECON 6510 - Health Economics (A)
+* GT: ECON 6432 - Global Enterprise (A)
+* GT: ECON 6200 - Money & Capital Markets (A)
+* GT: ECON 8803 - Special Topics: Pricing Multinational Value Chains (A)
+* GT: ECON 6105 - Macroeconomics (B)
+* GT: ECON 6380 - Environmental Economics (A)
+* GT: ECON 6106 - Microeconomic Analysis (A)
+* UGA: ECON 4950 - Competitive Strategy (A-)
+* UGA: ECON 4020 - Intermediate Macroeconomics (A)
+* UGA: ECON 2100 - Economics of Environmental Quality (A)
+* UGA: ECON 4230 - Industrial Economics (A-)
+* UGA: ECON 4650 - Economics of Organizations and Management (A)
+* UGA: ECON 2200 - Economic Development of the U.S. (A)
+* GS: ECON 4010 - Intermediate Microeconomics (A)
+Statistics
+* GT: ECON 6160 - Econometric Analysis (A) (Tool: R, Stata)
+* GT: ECON 6140 - Probability and Statistics (A) (Tool: R, Python)
+* UGA: ECON 4750 - Introduction to Econometrics (A-) (Tool: Stata)
+* UGA: STAT 4260 - Quality Assurance (B+) (Tool: R)
+* UGA: STAT 4220 - Applied Experimental Designs (A) (Tool: R)
+* UGA: STAT 4290 - Nonparametrics (B+) (Tool: R)
+* UGA: STAT 4230 - Applied Regression Analysis (A) (Tool: R)
+* UGA: BUSN 4000 - Predictive Model Optimization (A) (Tool: Excel)
+* UGA: STAT 4210 - Statistical Methods (A)
+* UGA: MSIT 3000 - Statistical Analysis for Business (A) (Tool: JMP by SAS)
+General
+* Codecademy: Learn the Command Line
+
+INTERESTS & HOBBIES
+* Climbing
+	* Indoor: Sport, Bouldering
+	* Outdoor: Sport
+* Hiking
+* Snowboarding
+* Weight Training
+* Guitar
+* Traveling abroad
+	* Recent trips: England,Wales,Scotland,Italy; Cuba; Switzerland, France
+* Economics 
+* Programming
+* American football
+	* Favorite teams: Atlanta Falcons, Georgia Bulldogs
+* European football
+	* Favorite teams: Atlanta United FC, Juventus (Turin/Torino, Italy)
+* Geography
+* History of civilizations 
+* Worldbuilding-related media:
+	* Star Wars
+	* Tolkien
+
+
+*****************************************************************
+NOTES:
+*****************************************************************
+1. Legend
+Should I make a legend which lists further acronyms of things
+like University at which a class is taken or website/platorm
+on which I've taken a course so that I can just list the 
+course with an acronym next to it? 
+
+If so, it would be cool to make the legend float and/or follow the user as
+he/she scrolls down the page. 
+
+2. Links
+Would be nice to provide hyperlinks to whatever I can. Maybe in some
+cases have a pop-up show a paragraph or pictures that elaborate/illustrate; this popup should
+be able to be hidden/minimized/maximized.
+E.g., a certificate, a paragraph to describe the class and what I did, or pictures of
+me in Switzerland for iHEA?
