@@ -16,3 +16,4 @@ To update requirements.txt
 5. in a separate column, type "=IF(ISNUMBER(SEARCH("@",A1)), LEFT(A1, SEARCH("@",A1,1)-1), A1)"
 	- drag down to substring the local paths out of the package reference
 6. copy & paste back into the requirements.txt file
+ALTERNATIVELY - "pip-chill --no-version > requirements.txt"
