@@ -6,6 +6,8 @@ To pick back up with website,
 5. type "flask run"
 
 
+NB: venv\Scripts\activate
+
 To update requirements.txt
 1. Anaconda prompt
 2. direct to "PortfolioWebsite folder
