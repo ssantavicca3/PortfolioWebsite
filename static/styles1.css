@@ -11,7 +11,7 @@ body {
   margin:0;
   min-height:100%;
   font-family:raleway,helvetica neue,sans-serif;
-  color:#112f41;
+  color:#9F1D35
   font-size:16px
 }
 
@@ -54,22 +54,22 @@ h1,h2,h3,h4,h5 {
 
 h1 {
   font-size:36px;
-  font-weight:600
+  font-weight:600;
 }
 
 h2 {
   font-size:30px;
-  font-weight:600
+  font-weight:600;
 }
 
 h3 {
   font-size:24px;
-  font-weight:500
+  font-weight:500;
 }
 
 h4 {
   font-size:20px;
-  font-weight:500
+  font-weight:500;
 }
 
 blockquote {
@@ -188,13 +188,18 @@ header .intro {
   bottom:140px
 }
 
+header .intro h3, header .intro h2 {
+  color:#fcfcfd;
+  text-shadow: -1px 0 #9F1D35, 0 1px #9F1D35, 1px 0 #9F1D35, 0 -1px #9F1D35
+}
+
 header .rounded-logo {
   width:150px;
   height:150px;
   border-radius:50%;
   margin-bottom:40px;
   display:block;
-  box-shadow:0 0 5px #112f41
+  box-shadow:0 0 5px #9F1D35
 }
 
 @media(min-width:768px) and (max-width:1023px) {
@@ -213,7 +218,7 @@ header .rounded-logo {
   header {
     position:relative;
     width:100%;
-    background:#112f41!important;
+    background:#9F1D35!important;
     display:block;
     height:auto
   }
@@ -309,7 +314,7 @@ footer {
   position:absolute;
   width:70%;
   left:30%;
-  background-color:#112f41;
+  background-color:#9F1D35;
   color:#fcfcfd;
   padding:35px 45px
 }
@@ -365,7 +370,7 @@ header .icon {
 }
 
 #content .icon {
-  fill:#112f41
+  fill:#9F1D35
 }
 
 #content:not(.portfolio) img {
@@ -386,7 +391,7 @@ header .icon {
 .portfolio img {
   max-width:100%;
   margin-bottom:30px;
-  box-shadow:0 0 5px #112f41
+  box-shadow:0 0 5px #9F1D35
 }
 .portfolio .rounded-img {
   width:150px;
@@ -427,6 +432,10 @@ header .icon {
   margin-bottom:10px
 }
 
+#content h1,h2,h3,h4 {
+  color:#550015
+}
+
 #content .portfolio-list h2 {
   margin:0
 }
@@ -440,7 +449,7 @@ header .icon {
   max-width:100%;
   border-radius:2px;
   display:block;
-  box-shadow:0 0 5px #112f41;
+  box-shadow:0 0 5px #9F1D35;
   margin:inherit
 }
 
@@ -448,6 +457,14 @@ header .icon {
   position:relative;
   max-width:35em;
   margin-bottom:30px
+}
+
+.content-wrapper .breadcrumb a {
+  color:#550015
+}
+
+#content a {
+  color:#550015
 }
 
 #content .portfolio-list .portfolio-container .portfolio-details {
@@ -466,7 +483,8 @@ header .icon {
 #content .portfolio-list .portfolio-container .portfolio-details p,#content .portfolio-list .portfolio-container .portfolio-details h2 {
   text-align:center;
   margin-bottom:0;
-  position:relative
+  position:relative;
+  color:#fcfcfd
 }
 
 #content .portfolio-list .portfolio-container .img-overlay {
@@ -483,7 +501,7 @@ header .icon {
   -ms-transition:.4s ease;
   -o-transition:.4s ease;
   transition:.4s ease;
-  background-color:#112f41
+  background-color:#9F1D35
 }
 
 #content .portfolio-list .portfolio-container:hover .img-overlay {
@@ -502,7 +520,7 @@ header .icon {
 }
 
 #content .portfolio-list img::hover {
-  linear-gradient:#112f41,#112f41
+  linear-gradient:#9F1D35,#9F1D35
 }
 
 @media(max-width:767px) {
