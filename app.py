@@ -29,6 +29,9 @@ def home():
 def portfolio():
     return render_template('portfolio.html')
 
+@app.route('/skills', methods=['POST', 'GET'])
+def skills():
+    return render_template('skills.html')
 
 @app.route('/research', methods=['POST', 'GET'])
 def research():
